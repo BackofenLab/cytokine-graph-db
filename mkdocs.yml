@@ -1,0 +1,6 @@
+site_name: AxoWise Documentation
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Usage Guide: usage_guide.md
+theme: readthedocs
