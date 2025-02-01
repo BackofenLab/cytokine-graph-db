@@ -4,7 +4,7 @@ Welcome to the official documentation for **AxoWise**, a tool designed to analyz
 
 ## Table of Contents
 - [Home](#home)
-- [Getting Started](getting_started.md)
+- [Installation & Setup](installation_setup.md)
 - [User  Guide](user_guide.md)
 
 ## Home
